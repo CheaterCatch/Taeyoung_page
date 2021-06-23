@@ -1,0 +1,36 @@
+.testtitle_body {
+    background-color: white;
+    width: 800px;
+    margin-left: 15px;
+    box-shadow: 0px 3px 3px 1px #B8B8B8;
+    padding: 20px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+}
+
+.cols{
+    margin:15px 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.cols label {
+    margin-right: 15px;
+}
+
+.cols input[id="test_title"]{
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style:solid;
+    width: 575px;
+    border-bottom-width: 1px;
+    border-color: #B8B8B8;
+}
+
+.cols textarea{
+    border-color: #B8B8B8;
+    padding: 15px;
+}
