@@ -1,6 +1,6 @@
 .testtitle_body {
     background-color: white;
-    width: 800px;
+    width: 850px;
     margin-left: 15px;
     box-shadow: 0px 3px 3px 1px #B8B8B8;
     padding: 20px;
@@ -11,7 +11,7 @@
 }
 
 .cols{
-    margin:15px 0px;
+    margin:10px 0px;
     display: flex;
     flex-direction: row;
 }

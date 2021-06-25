@@ -10,14 +10,3 @@
 body{
   background-color: #E5E5E5;
 }
-
-content{
-  display: flex;
-  flex-direction: column;
-  margin: 20px;
-}
-
-content > div{
-  display: flex;
-  justify-content: center;
-}
